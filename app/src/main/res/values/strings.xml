@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CambioCA</string>
+    <string name="app_description">Conversor de divisas regional</string>
+    <string name="label_amount_usd">Monto en dólares (USD)</string>
+    <string name="label_target_currency">Moneda destino</string>
+    <string name="btn_convert">Convertir</string>
+    <string name="btn_converting">Convirtiendo...</string>
+    <string name="btn_refresh">Actualizar tipos de cambio</string>
+    <string name="error_empty_amount">Ingresa un monto en dólares</string>
+    <string name="error_invalid_amount">Ingresa un número válido</string>
+    <string name="error_negative_amount">El monto debe ser mayor o igual a cero</string>
+    <string name="error_no_connection">Sin conexión a internet. Verifica tu red.</string>
+    <string name="loading_rates">Consultando tipo de cambio...</string>
+    <string name="result_rate_label">Tipo de cambio:</string>
+    <string name="footer_api_info">Tipos de cambio provistos por ExchangeRate-API</string>
+</resources>
