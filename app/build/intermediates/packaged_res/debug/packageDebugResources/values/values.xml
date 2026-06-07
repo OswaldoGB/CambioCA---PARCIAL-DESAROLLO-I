@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F8F9FA</color>
+    <color name="error">#B71C1C</color>
+    <color name="on_background">#1A1A2E</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_surface">#1A1A2E</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_variant">#003C8F</color>
+    <color name="secondary">#2E7D32</color>
+    <color name="status_bar">#1565C0</color>
+    <color name="surface">#FFFFFF</color>
+    <string name="app_description">Conversor de divisas regional</string>
+    <string name="app_name">CambioCA</string>
+    <string name="btn_convert">Convertir</string>
+    <string name="btn_converting">Convirtiendo...</string>
+    <string name="btn_refresh">Actualizar tipos de cambio</string>
+    <string name="error_empty_amount">Ingresa un monto en dólares</string>
+    <string name="error_invalid_amount">Ingresa un número válido</string>
+    <string name="error_negative_amount">El monto debe ser mayor o igual a cero</string>
+    <string name="error_no_connection">Sin conexión a internet. Verifica tu red.</string>
+    <string name="footer_api_info">Tipos de cambio provistos por ExchangeRate-API</string>
+    <string name="label_amount_usd">Monto en dólares (USD)</string>
+    <string name="label_target_currency">Moneda destino</string>
+    <string name="loading_rates">Consultando tipo de cambio...</string>
+    <string name="result_rate_label">Tipo de cambio:</string>
+    <style name="Theme.CambioCA" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

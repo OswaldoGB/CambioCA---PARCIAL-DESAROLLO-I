@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.cambioca.app-debug-49:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.example.cambioca.app-main-51:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.cambioca.app-debug-49:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.cambioca.app-main-51:/drawable/ic_launcher.xml"
+    }
+]

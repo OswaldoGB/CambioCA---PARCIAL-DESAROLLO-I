@@ -27,7 +27,7 @@ class ExchangeRateRepository {
      * En producción, esta clave debería almacenarse en local.properties
      * o en BuildConfig para no exponerla en el código fuente.
      */
-    private val apiKey = "YOUR_API_KEY_HERE"
+    private val apiKey = "e10639008b5f05da5812d1bc"
 
     /**
      * Obtiene los tipos de cambio actualizados desde la API.

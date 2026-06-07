@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color error
+color on_background
+color on_error
+color on_primary
+color on_secondary
+color on_surface
+color primary
+color primary_variant
+color secondary
+color status_bar
+color surface
+drawable ic_launcher
+drawable ic_launcher_round
+string app_description
+string app_name
+string btn_convert
+string btn_converting
+string btn_refresh
+string error_empty_amount
+string error_invalid_amount
+string error_negative_amount
+string error_no_connection
+string footer_api_info
+string label_amount_usd
+string label_target_currency
+string loading_rates
+string result_rate_label
+style Theme.CambioCA
